@@ -33,7 +33,8 @@ VA:Frederick,89313
 VA:Fredericksburg city,29036
 VA:King George,26836
 VA:Loudoun,413538
-VA:Manassas City,41085
+VA:Manassas city,41085
+VA:Manassas Park city,17478 
 VA:Montgomery,98535
 VA:Prince William,470335
 VA:Rappahannock,7370
@@ -42,4 +43,4 @@ VA:Warren,40164
 VA:Washington,53740
 VA:Westmoreland,18015
 VA:Winchester city,28078
-AllCounties,9720825
+AllCounties,9738303
