@@ -1,42 +1,42 @@
 "County","Last_Update","Confirmed","Deaths"
-"DC:District of Columbia",2020-11-23,20290,672
-"MD:Anne Arundel",2020-11-23,15599,296
-"MD:Baltimore",2020-11-23,27247,706
-"MD:Baltimore city",2020-11-23,22952,543
-"MD:Calvert",2020-11-23,1481,32
-"MD:Caroline",2020-11-23,878,9
-"MD:Carroll",2020-11-23,3055,134
-"MD:Cecil",2020-11-23,1891,38
-"MD:Charles",2020-11-23,4067,104
-"MD:Dorchester",2020-11-23,968,15
-"MD:Frederick",2020-11-23,6206,146
-"MD:Harford",2020-11-23,5542,90
-"MD:Howard",2020-11-23,7494,135
-"MD:Kent",2020-11-23,412,26
-"MD:Montgomery",2020-11-23,31431,932
-"MD:Prince George's",2020-11-23,39200,907
-"MD:Queen Anne's",2020-11-23,1028,27
-"MD:St. Mary's",2020-11-23,1949,61
-"MD:Talbot",2020-11-23,761,7
-"MD:Washington",2020-11-23,3651,60
-"VA:Alexandria city",2020-11-23,5010,77
-"VA:Arlington",2020-11-23,5856,157
-"VA:Clarke",2020-11-23,183,3
-"VA:Culpeper",2020-11-23,2050,19
-"VA:Fairfax",2020-11-23,28798,614
-"VA:Fairfax city",2020-11-23,201,8
-"VA:Falls Church city",2020-11-23,90,7
-"VA:Fauquier",2020-11-23,1387,27
-"VA:Frederick",2020-11-23,1832,17
-"VA:Fredericksburg city",2020-11-23,661,6
-"VA:King George",2020-11-23,371,5
-"VA:Loudoun",2020-11-23,9345,139
-"VA:Manassas city",2020-11-23,2216,28
-"VA:Manassas Park city",2020-11-23,699,8
-"VA:Prince William",2020-11-23,16962,232
-"VA:Rappahannock",2020-11-23,78,2
-"VA:Stafford",2020-11-23,3054,22
-"VA:Warren",2020-11-23,766,25
-"VA:Westmoreland",2020-11-23,406,6
-"VA:Winchester city",2020-11-23,890,4
-"AllCounties",2020-11-23,276957,6346
+"DC:District of Columbia",2020-11-24,20409,673
+"MD:Anne Arundel",2020-11-24,15727,296
+"MD:Baltimore",2020-11-24,27427,711
+"MD:Baltimore city",2020-11-24,23107,545
+"MD:Calvert",2020-11-24,1496,33
+"MD:Caroline",2020-11-24,890,10
+"MD:Carroll",2020-11-24,3095,134
+"MD:Cecil",2020-11-24,1926,40
+"MD:Charles",2020-11-24,4106,104
+"MD:Dorchester",2020-11-24,970,15
+"MD:Frederick",2020-11-24,6275,146
+"MD:Harford",2020-11-24,5604,93
+"MD:Howard",2020-11-24,7548,136
+"MD:Kent",2020-11-24,415,26
+"MD:Montgomery",2020-11-24,31664,935
+"MD:Prince George's",2020-11-24,39515,909
+"MD:Queen Anne's",2020-11-24,1034,27
+"MD:St. Mary's",2020-11-24,1983,61
+"MD:Talbot",2020-11-24,781,7
+"MD:Washington",2020-11-24,3710,61
+"VA:Alexandria city",2020-11-24,5051,77
+"VA:Arlington",2020-11-24,5905,157
+"VA:Clarke",2020-11-24,185,3
+"VA:Culpeper",2020-11-24,2068,20
+"VA:Fairfax",2020-11-24,29179,617
+"VA:Fairfax city",2020-11-24,200,8
+"VA:Falls Church city",2020-11-24,93,7
+"VA:Fauquier",2020-11-24,1401,28
+"VA:Frederick",2020-11-24,1851,17
+"VA:Fredericksburg city",2020-11-24,669,6
+"VA:King George",2020-11-24,375,5
+"VA:Loudoun",2020-11-24,9512,139
+"VA:Manassas city",2020-11-24,2238,28
+"VA:Manassas Park city",2020-11-24,706,8
+"VA:Prince William",2020-11-24,17158,234
+"VA:Rappahannock",2020-11-24,79,2
+"VA:Stafford",2020-11-24,3098,22
+"VA:Warren",2020-11-24,780,25
+"VA:Westmoreland",2020-11-24,406,6
+"VA:Winchester city",2020-11-24,904,4
+"AllCounties",2020-11-24,279540,6375
