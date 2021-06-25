@@ -1,42 +1,42 @@
 "County","Last_Update","Confirmed","Deaths"
-"DC:District of Columbia",2021-06-23,49284,1141
-"MD:Anne Arundel",2021-06-23,43955,661
-"MD:Baltimore",2021-06-23,65943,1677
-"MD:Baltimore city",2021-06-23,53122,1245
-"MD:Calvert",2021-06-23,4241,86
-"MD:Caroline",2021-06-23,2350,30
-"MD:Carroll",2021-06-23,9530,253
-"MD:Cecil",2021-06-23,6332,152
-"MD:Charles",2021-06-23,10959,215
-"MD:Dorchester",2021-06-23,2848,65
-"MD:Frederick",2021-06-23,19838,342
-"MD:Harford",2021-06-23,16641,299
-"MD:Howard",2021-06-23,19314,254
-"MD:Kent",2021-06-23,1355,51
-"MD:Montgomery",2021-06-23,71170,1622
-"MD:Prince George's",2021-06-23,85477,1594
-"MD:Queen Anne's",2021-06-23,3007,51
-"MD:St. Mary's",2021-06-23,6053,132
-"MD:Talbot",2021-06-23,2182,44
-"MD:Washington",2021-06-23,14657,330
-"VA:Alexandria city",2021-06-23,11864,138
-"VA:Arlington",2021-06-23,15299,257
-"VA:Clarke",2021-06-23,991,20
-"VA:Culpeper",2021-06-23,4708,67
-"VA:Fairfax",2021-06-23,77057,1111
-"VA:Fairfax city",2021-06-23,571,20
-"VA:Falls Church city",2021-06-23,429,7
-"VA:Fauquier",2021-06-23,4769,69
-"VA:Frederick",2021-06-23,8094,102
-"VA:Fredericksburg city",2021-06-23,2150,25
-"VA:King George",2021-06-23,1739,20
-"VA:Loudoun",2021-06-23,28065,283
-"VA:Manassas city",2021-06-23,4312,48
-"VA:Manassas Park city",2021-06-23,1219,11
-"VA:Prince William",2021-06-23,45728,505
-"VA:Rappahannock",2021-06-23,347,2
-"VA:Stafford",2021-06-23,11491,82
-"VA:Warren",2021-06-23,3130,59
-"VA:Westmoreland",2021-06-23,1312,27
-"VA:Winchester city",2021-06-23,2938,48
-"AllCounties",2021-06-23,714471,13145
+"DC:District of Columbia",2021-06-24,49297,1141
+"MD:Anne Arundel",2021-06-24,43965,663
+"MD:Baltimore",2021-06-24,65961,1678
+"MD:Baltimore city",2021-06-24,53129,1247
+"MD:Calvert",2021-06-24,4241,86
+"MD:Caroline",2021-06-24,2350,30
+"MD:Carroll",2021-06-24,9531,253
+"MD:Cecil",2021-06-24,6334,152
+"MD:Charles",2021-06-24,10960,216
+"MD:Dorchester",2021-06-24,2851,65
+"MD:Frederick",2021-06-24,19839,342
+"MD:Harford",2021-06-24,16642,300
+"MD:Howard",2021-06-24,19319,254
+"MD:Kent",2021-06-24,1355,51
+"MD:Montgomery",2021-06-24,71172,1622
+"MD:Prince George's",2021-06-24,85486,1594
+"MD:Queen Anne's",2021-06-24,3007,51
+"MD:St. Mary's",2021-06-24,6053,132
+"MD:Talbot",2021-06-24,2183,44
+"MD:Washington",2021-06-24,14659,330
+"VA:Alexandria city",2021-06-24,11872,139
+"VA:Arlington",2021-06-24,15296,257
+"VA:Clarke",2021-06-24,991,21
+"VA:Culpeper",2021-06-24,4711,67
+"VA:Fairfax",2021-06-24,77063,1113
+"VA:Fairfax city",2021-06-24,571,20
+"VA:Falls Church city",2021-06-24,429,7
+"VA:Fauquier",2021-06-24,4770,69
+"VA:Frederick",2021-06-24,8098,102
+"VA:Fredericksburg city",2021-06-24,2151,25
+"VA:King George",2021-06-24,1738,20
+"VA:Loudoun",2021-06-24,28084,283
+"VA:Manassas city",2021-06-24,4313,48
+"VA:Manassas Park city",2021-06-24,1220,11
+"VA:Prince William",2021-06-24,45733,505
+"VA:Rappahannock",2021-06-24,348,2
+"VA:Stafford",2021-06-24,11500,82
+"VA:Warren",2021-06-24,3133,59
+"VA:Westmoreland",2021-06-24,1312,27
+"VA:Winchester city",2021-06-24,2938,48
+"AllCounties",2021-06-24,714605,13156
