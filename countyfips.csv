@@ -1,0 +1,41 @@
+County,fips
+DC:District of Columbia,11001
+MD:Anne Arundel,24003
+MD:Baltimore,24005
+MD:Baltimore city,24510
+MD:Calvert,24009
+MD:Caroline,24011
+MD:Carroll,24013
+MD:Cecil,24015
+MD:Charles,24017
+MD:Dorchester,24019
+MD:Frederick,24021
+MD:Harford,24025
+MD:Howard,24027
+MD:Kent,24029
+MD:Montgomery,24031
+MD:Prince George's,24033
+MD:Queen Anne's,24035
+MD:St. Mary's,24037
+MD:Talbot,24041
+MD:Washington,24043
+VA:Alexandria city,51510
+VA:Arlington,51013
+VA:Clarke,51043
+VA:Culpeper,51047
+VA:Fairfax,51059
+VA:Fairfax city,51600
+VA:Falls Church city,51610
+VA:Fauquier,51061
+VA:Frederick,51069
+VA:Fredericksburg city,51630
+VA:King George,51099
+VA:Loudoun,51107
+VA:Manassas city,51683
+VA:Manassas Park city, 51685
+VA:Prince William,51153
+VA:Rappahannock,51157
+VA:Stafford,51179
+VA:Warren,51187
+VA:Westmoreland,51193
+VA:Winchester city,51840

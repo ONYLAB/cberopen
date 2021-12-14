@@ -1,0 +1,29 @@
+County,Last_Update,Confirmed,Deaths
+DC:District of Columbia,6/25/2020,10159,543
+MD:Anne Arundel,6/25/2020,4993,201
+MD:Baltimore,6/25/2020,7732,460
+MD:Calvert,6/25/2020,404,26
+MD:Carroll,6/25/2020,1103,109
+MD:Cecil,6/25/2020,461,29
+MD:Charles,6/25/2020,1352,86
+MD:Dorchester,6/25/2020,184,5
+MD:Frederick,6/25/2020,2448,116
+MD:Harford,6/25/2020,1081,61
+MD:Howard,6/25/2020,2458,83
+MD:Montgomery,6/25/2020,14421,731
+MD:Washington,6/25/2020,653,26
+VA:Albemarle,6/25/2020,367,8
+VA:Arlington,6/25/2020,2445,127
+VA:Carroll,6/25/2020,200,6
+VA:Culpeper,6/25/2020,803,9
+VA:Fairfax,6/25/2020,13611,457
+VA:Fauquier,6/25/2020,415,6
+VA:Frederick,6/25/2020,464,4
+VA:Henrico,6/25/2020,2500,140
+VA:Loudoun,6/25/2020,3739,85
+VA:Montgomery,6/25/2020,116,2
+VA:Prince William,6/25/2020,7064,137
+VA:Stafford,6/25/2020,954,5
+VA:Washington,6/25/2020,60,4
+VA:Westmoreland,6/25/2020,92,1
+AllCounties,6/25/2020,80279,3467
